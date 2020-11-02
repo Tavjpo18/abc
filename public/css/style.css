@@ -1,0 +1,15 @@
+body{
+    color: #333333;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 16px;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 70vh;
+}
+
+.main-content{
+    flex-grow: 1;
+}
